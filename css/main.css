@@ -1,0 +1,23 @@
+body {
+  background: #edeff0;
+  padding: 50px 0 0;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 62.5%;
+}
+
+.container {
+  width: 90%;
+  background: white;
+  padding: 30px 15px;
+  margin: 0 auto;
+  border-radius: 15px;
+}
+
+h1,
+h2 {
+  font-size: 2.4em;
+  font-weight: 400;
+  margin-bottom: 8px;
+  color: #384047;
+  line-height: 1.2;
+}
