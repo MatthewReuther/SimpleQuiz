@@ -1,5 +1,5 @@
 # SimpleQuiz
-A simple quiz application, built for practicing JavaScript basics.
+A simple quiz application, built for practicing JavaScript Conditionals.
 
 # Guidlines
   1. Application must ask 5 questions.
